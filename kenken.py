@@ -1,7 +1,3 @@
-####################################
-# Name: Sagar Patel
-####################################
-
 # Main function and its tests are all the way at the bottom.
 
 # All other functions are thoroughly tested, so you can hit run button and see all
